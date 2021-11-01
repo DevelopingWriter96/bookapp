@@ -10,4 +10,4 @@ async function getAPIData(url) {
     }
 }
 
-getAPIData(https://openlibrary.org/works/OL45883W.json)
+getAPIData("https://openlibrary.org/works/OL45883W.json")
